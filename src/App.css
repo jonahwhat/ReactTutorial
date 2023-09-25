@@ -32,8 +32,8 @@ body{
 
   }
   .profile{
-    background: linear-gradient(0.35turn,#ffffff, #c79cfc);
-    margin: 10px;
+    background: linear-gradient(0.35turn,#ffffff, #acc2ff);
+    margin: 1%;
     width: 10%;
     box-shadow: 5px -10px 20px #0000001e;
     border-radius: 20px;
@@ -49,6 +49,7 @@ body{
     height: 100%;
     width: 100%;
     border-radius: 100px;
+    box-shadow: 5px 10px 20px #0000003b;
     margin-top: 10px;
 
   }
